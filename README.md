@@ -18,7 +18,7 @@ Integração entre sistemas core e plataformas digitais
 Uso de soluções como SAP PI/PO em conjunto com iPaaS (ex.: Jitterbit)
 
 Estratégias para redução de acoplamento e dependência tecnológica
----
+
 
 # 2. Front-end Corporativo, Experiência e Inovação
 
@@ -31,7 +31,7 @@ Estratégias para redução de acoplamento e dependência tecnológica
 - Integração eficiente entre camada de apresentação, APIs e sistemas core
 
 - Inovação incremental sem ruptura operacional
-  ---
+  
   
 
 # 3. Automação Inteligente e Eficiência Operacional
@@ -45,7 +45,7 @@ Estratégias para redução de acoplamento e dependência tecnológica
 - Redução de esforço manual, aumento de confiabilidade e ganho de escala
 
 - Governança e sustentabilidade das automações
-  --
+  
 
 # 4. Engenharia Orientada a Valor
 
@@ -59,19 +59,14 @@ Estratégias para redução de acoplamento e dependência tecnológica
 
 - Sustentabilidade financeira e evolução contínua
 
- -- 
+ 
  
 
 ## 5. Estratégias Omnichannel e Plataformas Digitais
 
 Aprendizados sobre a construção e escalabilidade de plataformas digitais B2B e B2C, abordando:
-
-# - Uso de plataformas de e-commerce como VTEX e Oracle ATG integradas a ERPs e sistemas core
-
-# - Integração entre canais digitais, ERPs como LINX ERP e e-Millennium, OMS, logística e sistemas legados
-
-# - Cenários omnichannel como Ship From Store, com visibilidade unificada de estoque e orquestração de pedidos
-
-# - Integração com plataformas de CRM como Salesforce e HubSpot para unificação da visão do cliente
-
-# - Arquitetura como facilitadora da experiência omnichannel, equilibrando inovação, estabilidade e custo operacional
+ - Uso de plataformas de e-commerce como VTEX e Oracle ATG integradas a ERPs e sistemas core
+ - Integração entre canais digitais, ERPs como LINX ERP e e-Millennium, OMS, logística e sistemas legados
+ - Cenários omnichannel como Ship From Store, com visibilidade unificada de estoque e orquestração de pedidos
+ - Integração com plataformas de CRM como Salesforce e HubSpot para unificação da visão do cliente
+ - Arquitetura como facilitadora da experiência omnichannel, equilibrando inovação, estabilidade e custo operacional
