@@ -26,11 +26,6 @@ Desenho de arquiteturas para plataformas digitais de alta transacionalidade (VTE
 
 
 
-# Tech Strategy & Digital Transformation Notes
-
-Este repositório consolida reflexões práticas sobre estratégia tecnológica e transformação digital, baseadas na minha experiência liderando iniciativas de engenharia, integração sistêmica e evolução de plataformas digitais em ambientes corporativos complexos.
-
-O foco não é tecnologia isolada, mas como arquitetura, engenharia e produto se conectam para gerar impacto real no negócio.
 ---
 
 # Tópicos de Pensamento Estratégico
